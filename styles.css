@@ -1,0 +1,14 @@
+odin-recipe-title {
+    font-family: Georgia, 'Times New Roman';
+    font-size: 45px;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman';
+    background-color: wheat;
+    font-size: 24px;
+    font-style: italic;
+}
